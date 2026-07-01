@@ -2523,7 +2523,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 17e6c3e5891d9de41b00f660655ae662, type: 3}
     - {fileID: -2912605832241475739, guid: 17e6c3e5891d9de41b00f660655ae662, type: 3}
     Multiple: 1
-    Hash: 531df255cf4581b022581f54555ac783
+    Hash: b6b19e2fb2d03ba05027d3a2e2124e4a
     Tags: []
   - Name: DarkLordArmor
     Collection: Epic
@@ -3295,7 +3295,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 0b31637355b1e9f4e8093235031e4180, type: 3}
     - {fileID: -2912605832241475739, guid: 0b31637355b1e9f4e8093235031e4180, type: 3}
     Multiple: 1
-    Hash: 919fe0c79465ee144625a08b586b5f54
+    Hash: ec80ecc2a80d05f860bde82199b2b606
     Tags: []
   - Name: Kopeynik
     Collection: Epic
@@ -3317,7 +3317,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 10a3ff23b19de8547abeecf114a20b16, type: 3}
     - {fileID: -2912605832241475739, guid: 10a3ff23b19de8547abeecf114a20b16, type: 3}
     Multiple: 1
-    Hash: ae7935a93515991ad9d00965cda6bdaa
+    Hash: bea7581e63c15123e4993af28ae74087
     Tags: []
   - Name: Luchnik
     Collection: Epic
@@ -3339,7 +3339,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 303ba948878d338438c7d746c4d46122, type: 3}
     - {fileID: -2912605832241475739, guid: 303ba948878d338438c7d746c4d46122, type: 3}
     Multiple: 1
-    Hash: 7a91604fa6103f40e121b1545f762faf
+    Hash: eaf8e2ace9046b94fa7068e8149a1d1f
     Tags: []
   - Name: LushKnight
     Collection: Epic
@@ -3867,7 +3867,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: b94724d2bcd447348979f2b59df665db, type: 3}
     - {fileID: -2912605832241475739, guid: b94724d2bcd447348979f2b59df665db, type: 3}
     Multiple: 1
-    Hash: 1348580308bd40913e68426e3bae3bfa
+    Hash: e968844b778b5cb91e06ed9e827d7e32
     Tags: []
   - Name: RedGuardianArmor
     Collection: AbandonedWorkshop
@@ -4439,7 +4439,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 50db82d1a95773741a4e804288d65796, type: 3}
     - {fileID: -2912605832241475739, guid: 50db82d1a95773741a4e804288d65796, type: 3}
     Multiple: 1
-    Hash: 8de0ef209d023336fa519332ba6c6936
+    Hash: 490ef29c2760911366c568d8da826916
     Tags: []
   - Name: SunlightRobe
     Collection: Epic
@@ -4923,7 +4923,7 @@ MonoBehaviour:
     - {fileID: 21300038, guid: 0cdf92732cca59042a7f2cd437e0d5b7, type: 3}
     - {fileID: 21300000, guid: 0cdf92732cca59042a7f2cd437e0d5b7, type: 3}
     Multiple: 1
-    Hash: f5ee7b5392f87e65ed41953bf830e230
+    Hash: c44d9d1796275405d6449763f637ee6f
     Tags: []
   - Name: Voivode
     Collection: Epic
@@ -4945,7 +4945,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 457a78fdc0f03214f834b900fb28c749, type: 3}
     - {fileID: -2912605832241475739, guid: 457a78fdc0f03214f834b900fb28c749, type: 3}
     Multiple: 1
-    Hash: 5a9c2f7ba599581ece0507b35700abf9
+    Hash: 02be08d581f12cc14757fd6b4a2f728a
     Tags: []
   - Name: WallKeeperArmor
     Collection: AbandonedWorkshop
@@ -6409,7 +6409,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 84238774eeac6fe4fa0a8dd29bfb4ba5, type: 3}
     Multiple: 1
-    Hash: 32b28d33a3b6a814b34999de06c67ba1
+    Hash: e1047efc800d618797db055f83529be5
     Tags: []
   - Name: Kopeynik
     Collection: Epic
@@ -6420,7 +6420,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: db11c5e50bdd04a4f8c8b3c7893cd60d, type: 3}
     Multiple: 1
-    Hash: 146c02d6e72b7e0ecaaa8b805aecf4ec
+    Hash: 55375ea8cb7e90d0ec9194c008755d17
     Tags: []
   - Name: Luchnik
     Collection: Epic
@@ -6431,7 +6431,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 36940f2fe31c333429105224f6d8961c, type: 3}
     Multiple: 1
-    Hash: 42803ea2e38a48ca2bc9668b7ed8b402
+    Hash: 5ab1d32f4ccc447802d0480a1d48ece0
     Tags: []
   - Name: LushKnightHelmet
     Collection: Epic
@@ -6778,7 +6778,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 7cebec4a8ac44024f8c31936a6098dbd, type: 3}
     Multiple: 1
-    Hash: 3007bb0d40da2b5002d850a84e130c56
+    Hash: cb1a6fdf7ec21029d1b442841439b52f
     Tags: []
   - Name: 'RedBandana [FullHair]'
     Collection: Skeletons
@@ -7125,7 +7125,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 7b42e8e25047fba44b3a17b54eb10f1c, type: 3}
     Multiple: 1
-    Hash: 045bf397dda630003457dac463fc2048
+    Hash: 901e42de7b713d62f7d1b899aef3adf0
     Tags: []
   - Name: SunlightHelmet
     Collection: Epic
@@ -7243,7 +7243,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 2ab485c3683a7194b82dca187e2b30f5, type: 3}
     Multiple: 1
-    Hash: 86dab1ccfa957b53550a2fb72ca261c6
+    Hash: cef5873c81c9aef09be5f84c80c13621
     Tags: []
   - Name: Voivode
     Collection: Epic
@@ -7254,7 +7254,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 60a6c22f7a215774fb17d349e5ef3902, type: 3}
     Multiple: 1
-    Hash: 189190d13e2132430134daed310ffc5d
+    Hash: 7fab0aaea5286fde648b2321d3b73935
     Tags: []
   - Name: WallKeeperHelm
     Collection: AbandonedWorkshop

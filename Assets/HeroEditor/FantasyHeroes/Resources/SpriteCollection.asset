@@ -4024,7 +4024,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: e2940dad8faa493aad3d9ac9c364111d, type: 3}
     - {fileID: 21300000, guid: e2940dad8faa493aad3d9ac9c364111d, type: 3}
     Multiple: 1
-    Hash: e34ca8815bc59d4c3ec45ba15b04fea0
+    Hash: 8cb85fc315cc85112c3967d2cab662a1
     Tags:
     - Paint
   - Name: Cossack
@@ -4047,7 +4047,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 17e6c3e5891d9de41b00f660655ae662, type: 3}
     - {fileID: -2912605832241475739, guid: 17e6c3e5891d9de41b00f660655ae662, type: 3}
     Multiple: 1
-    Hash: 531df255cf4581b022581f54555ac783
+    Hash: b6b19e2fb2d03ba05027d3a2e2124e4a
     Tags: []
   - Name: 'CrusaderChainmail [Paint]'
     Collection: Knights
@@ -4203,7 +4203,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 0556c9854f5646e4ae0707772ab3ffca, type: 3}
     - {fileID: 21300000, guid: 0556c9854f5646e4ae0707772ab3ffca, type: 3}
     Multiple: 1
-    Hash: 188a09aaa3ce409d71d0ad3472d37f30
+    Hash: 463959f3db113ec97a1f86164d5dcc4f
     Tags: []
   - Name: 'DestroyerArmor [Paint]'
     Collection: Basic
@@ -5341,7 +5341,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 41ad2c1d10e74e6eae919687457ae41c, type: 3}
     - {fileID: 21300000, guid: 41ad2c1d10e74e6eae919687457ae41c, type: 3}
     Multiple: 1
-    Hash: 3827b4619826b125be6f8975b210eade
+    Hash: 1943709568a01e037cbc996dd05d0b00
     Tags: []
   - Name: HighCrusaderArmor
     Collection: AbandonedWorkshop
@@ -5429,7 +5429,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 826dd529b47a488b922eb5ed3c044fce, type: 3}
     - {fileID: 21300000, guid: 826dd529b47a488b922eb5ed3c044fce, type: 3}
     Multiple: 1
-    Hash: d598fcc4013ae8af0f8b4422e75657b5
+    Hash: 823ebc80e948fe7ef403acc331086275
     Tags: []
   - Name: HunterLightArmor
     Collection: Basic
@@ -5789,7 +5789,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 0b31637355b1e9f4e8093235031e4180, type: 3}
     - {fileID: -2912605832241475739, guid: 0b31637355b1e9f4e8093235031e4180, type: 3}
     Multiple: 1
-    Hash: 919fe0c79465ee144625a08b586b5f54
+    Hash: ec80ecc2a80d05f860bde82199b2b606
     Tags: []
   - Name: Kopeynik
     Collection: Epic
@@ -5811,7 +5811,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 10a3ff23b19de8547abeecf114a20b16, type: 3}
     - {fileID: -2912605832241475739, guid: 10a3ff23b19de8547abeecf114a20b16, type: 3}
     Multiple: 1
-    Hash: ae7935a93515991ad9d00965cda6bdaa
+    Hash: bea7581e63c15123e4993af28ae74087
     Tags: []
   - Name: LandsknechtArmor
     Collection: Basic
@@ -5943,7 +5943,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 303ba948878d338438c7d746c4d46122, type: 3}
     - {fileID: -2912605832241475739, guid: 303ba948878d338438c7d746c4d46122, type: 3}
     Multiple: 1
-    Hash: 7a91604fa6103f40e121b1545f762faf
+    Hash: eaf8e2ace9046b94fa7068e8149a1d1f
     Tags: []
   - Name: LushKnight
     Collection: Epic
@@ -6123,7 +6123,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 9d3317b393c246e3bc46b37e9f67ad9f, type: 3}
     - {fileID: 21300000, guid: 9d3317b393c246e3bc46b37e9f67ad9f, type: 3}
     Multiple: 1
-    Hash: 4202bb8d9cad78a19d30f0b9704d9379
+    Hash: eb6a61e301e5a8881a65ff0b12ef414a
     Tags: []
   - Name: MinerCostume
     Collection: Basic
@@ -6348,7 +6348,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 6f0ced5410494bd8834cf34265bcb1d6, type: 3}
     - {fileID: 21300000, guid: 6f0ced5410494bd8834cf34265bcb1d6, type: 3}
     Multiple: 1
-    Hash: 03642a92d3e4ec3fdd2ef3d1f9077f8c
+    Hash: 1b5d3e5dc2b30041c6ce019ef64bf11c
     Tags:
     - Paint
   - Name: 'Ninja2 [Paint]'
@@ -6372,7 +6372,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 757bc77008d7439097dc306ece797f0a, type: 3}
     - {fileID: 21300000, guid: 757bc77008d7439097dc306ece797f0a, type: 3}
     Multiple: 1
-    Hash: 42a7592e1496becc3391bee730ae3d63
+    Hash: ffd025ec9b7e39ef569d65b37e6b194e
     Tags:
     - Paint
   - Name: Ninja3
@@ -6395,7 +6395,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 7e8e33f94d174a7a8192cc2b07f57d8e, type: 3}
     - {fileID: 21300000, guid: 7e8e33f94d174a7a8192cc2b07f57d8e, type: 3}
     Multiple: 1
-    Hash: d4dba4ca19990ff5ae19caebf5f6362c
+    Hash: 255309659bf5bdc1fc7d7b6cb616e367
     Tags: []
   - Name: NinjaOutfit
     Collection: Basic
@@ -6903,7 +6903,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 8a0b47fa86dc4538a289a672f407e6bf, type: 3}
     - {fileID: 21300000, guid: 8a0b47fa86dc4538a289a672f407e6bf, type: 3}
     Multiple: 1
-    Hash: 84a482f727bdf8267a1e89ca35bf1066
+    Hash: 68856f76a2d28ff33f0eb65b6ccf5409
     Tags: []
   - Name: Rags2
     Collection: Basic
@@ -6925,7 +6925,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 25cd4e93c4ec47738125edbcab54a621, type: 3}
     - {fileID: 21300000, guid: 25cd4e93c4ec47738125edbcab54a621, type: 3}
     Multiple: 1
-    Hash: 7f63f4a8958bb77a3583dca6368cb236
+    Hash: dbea5889a7e1ba4447e85e0ef8066979
     Tags: []
   - Name: Rags3
     Collection: Basic
@@ -6947,7 +6947,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 07234f2944ca47899bc98d3db3687702, type: 3}
     - {fileID: 21300000, guid: 07234f2944ca47899bc98d3db3687702, type: 3}
     Multiple: 1
-    Hash: cc10168ccfe8f9bf84db854713dbd909
+    Hash: 3a46da3ac9e74ebaa4eec1e330aad560
     Tags: []
   - Name: RangerArmor
     Collection: Basic
@@ -6991,7 +6991,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: b94724d2bcd447348979f2b59df665db, type: 3}
     - {fileID: -2912605832241475739, guid: b94724d2bcd447348979f2b59df665db, type: 3}
     Multiple: 1
-    Hash: 1348580308bd40913e68426e3bae3bfa
+    Hash: e968844b778b5cb91e06ed9e827d7e32
     Tags: []
   - Name: RedGuardianArmor
     Collection: AbandonedWorkshop
@@ -7321,7 +7321,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: fa0a3972c10b479cb9b130218fedcd77, type: 3}
     - {fileID: 21300000, guid: fa0a3972c10b479cb9b130218fedcd77, type: 3}
     Multiple: 1
-    Hash: f79ad7fa0ad06f817ccf5b238369deeb
+    Hash: ff7bb9eaf7306cdab4e56f0731f87eec
     Tags: []
   - Name: SamuraiHeavy2
     Collection: Samurai
@@ -7343,7 +7343,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 933d217a032d4f76b77c6b3e8f73c880, type: 3}
     - {fileID: 21300000, guid: 933d217a032d4f76b77c6b3e8f73c880, type: 3}
     Multiple: 1
-    Hash: 0a0634018b3bfb5908481bd905d3fa19
+    Hash: d19ae0a5b9129a1f54ed76667c00f4ff
     Tags: []
   - Name: SamuraiHeavy3
     Collection: Samurai
@@ -7365,7 +7365,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 0e5efe27d0d54858b0371c61c47b911b, type: 3}
     - {fileID: 21300000, guid: 0e5efe27d0d54858b0371c61c47b911b, type: 3}
     Multiple: 1
-    Hash: 62001de3cf89fb640608efb77a51d39c
+    Hash: d6539346cc355fa24da6dffa3bc06d42
     Tags: []
   - Name: SamuraiLight1
     Collection: Samurai
@@ -7387,7 +7387,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 660f0722fc8040c3bc60c6ecbda39117, type: 3}
     - {fileID: 21300000, guid: 660f0722fc8040c3bc60c6ecbda39117, type: 3}
     Multiple: 1
-    Hash: cc6998ecc3505e4e2cc337cfe73dd11b
+    Hash: d8f52a7f25d0b4350ac3c51f775241ff
     Tags: []
   - Name: SamuraiLight2
     Collection: Samurai
@@ -7409,7 +7409,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: f284a42af597454482a1afb62e896b28, type: 3}
     - {fileID: 21300000, guid: f284a42af597454482a1afb62e896b28, type: 3}
     Multiple: 1
-    Hash: 8446dd259de1668a9d22010f2ffe831a
+    Hash: 028a3e76b3e248a6ce87c0612a705e4f
     Tags: []
   - Name: SamuraiLight3
     Collection: Samurai
@@ -7431,7 +7431,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 10fed484c625484cbd935647d7b2440f, type: 3}
     - {fileID: 21300000, guid: 10fed484c625484cbd935647d7b2440f, type: 3}
     Multiple: 1
-    Hash: 579f40a197c0e84ed69927f7f4bb0c07
+    Hash: 374fc0d7d952be111dd6554ddacf184d
     Tags: []
   - Name: SandElder
     Collection: SandLords
@@ -8136,7 +8136,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 50db82d1a95773741a4e804288d65796, type: 3}
     - {fileID: -2912605832241475739, guid: 50db82d1a95773741a4e804288d65796, type: 3}
     Multiple: 1
-    Hash: 8de0ef209d023336fa519332ba6c6936
+    Hash: 490ef29c2760911366c568d8da826916
     Tags: []
   - Name: SunlightRobe
     Collection: Epic
@@ -8974,7 +8974,7 @@ MonoBehaviour:
     - {fileID: 21300038, guid: 0cdf92732cca59042a7f2cd437e0d5b7, type: 3}
     - {fileID: 21300000, guid: 0cdf92732cca59042a7f2cd437e0d5b7, type: 3}
     Multiple: 1
-    Hash: f5ee7b5392f87e65ed41953bf830e230
+    Hash: c44d9d1796275405d6449763f637ee6f
     Tags: []
   - Name: Voivode
     Collection: Epic
@@ -8996,7 +8996,7 @@ MonoBehaviour:
     - {fileID: -5895514436886505396, guid: 457a78fdc0f03214f834b900fb28c749, type: 3}
     - {fileID: -2912605832241475739, guid: 457a78fdc0f03214f834b900fb28c749, type: 3}
     Multiple: 1
-    Hash: 5a9c2f7ba599581ece0507b35700abf9
+    Hash: 02be08d581f12cc14757fd6b4a2f728a
     Tags: []
   - Name: WallKeeperArmor
     Collection: AbandonedWorkshop
@@ -9084,7 +9084,7 @@ MonoBehaviour:
     - {fileID: 21300020, guid: 19bf9f803ee045c5804c7510d4a87eed, type: 3}
     - {fileID: 21300000, guid: 19bf9f803ee045c5804c7510d4a87eed, type: 3}
     Multiple: 1
-    Hash: 4ae0fca945c55b39a640b105eb05a80f
+    Hash: c44f4c524f41b9af7b132030f9cbf173
     Tags: []
   - Name: WaterElementalArmor
     Collection: Epic
@@ -10917,7 +10917,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 84238774eeac6fe4fa0a8dd29bfb4ba5, type: 3}
     Multiple: 1
-    Hash: 32b28d33a3b6a814b34999de06c67ba1
+    Hash: e1047efc800d618797db055f83529be5
     Tags: []
   - Name: Kopeynik
     Collection: Epic
@@ -10928,7 +10928,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: db11c5e50bdd04a4f8c8b3c7893cd60d, type: 3}
     Multiple: 1
-    Hash: 146c02d6e72b7e0ecaaa8b805aecf4ec
+    Hash: 55375ea8cb7e90d0ec9194c008755d17
     Tags: []
   - Name: 'LandsknechtHelm [Paint]'
     Collection: Basic
@@ -10974,7 +10974,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 36940f2fe31c333429105224f6d8961c, type: 3}
     Multiple: 1
-    Hash: 42803ea2e38a48ca2bc9668b7ed8b402
+    Hash: 5ab1d32f4ccc447802d0480a1d48ece0
     Tags: []
   - Name: LushKnightHelmet
     Collection: Epic
@@ -11516,7 +11516,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 7cebec4a8ac44024f8c31936a6098dbd, type: 3}
     Multiple: 1
-    Hash: 3007bb0d40da2b5002d850a84e130c56
+    Hash: cb1a6fdf7ec21029d1b442841439b52f
     Tags: []
   - Name: RedKittyHood
     Collection: AbandonedWorkshop
@@ -12134,7 +12134,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 7b42e8e25047fba44b3a17b54eb10f1c, type: 3}
     Multiple: 1
-    Hash: 045bf397dda630003457dac463fc2048
+    Hash: 901e42de7b713d62f7d1b899aef3adf0
     Tags: []
   - Name: SunlightHelmet
     Collection: Epic
@@ -12348,7 +12348,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 2ab485c3683a7194b82dca187e2b30f5, type: 3}
     Multiple: 1
-    Hash: 86dab1ccfa957b53550a2fb72ca261c6
+    Hash: cef5873c81c9aef09be5f84c80c13621
     Tags: []
   - Name: Voivode
     Collection: Epic
@@ -12359,7 +12359,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 60a6c22f7a215774fb17d349e5ef3902, type: 3}
     Multiple: 1
-    Hash: 189190d13e2132430134daed310ffc5d
+    Hash: 7fab0aaea5286fde648b2321d3b73935
     Tags: []
   - Name: WallKeeperHelm
     Collection: AbandonedWorkshop
@@ -17808,7 +17808,7 @@ MonoBehaviour:
     - {fileID: 21300002, guid: abc213fc5c884a29b9ef2e2ea7f12828, type: 3}
     - {fileID: 21300000, guid: abc213fc5c884a29b9ef2e2ea7f12828, type: 3}
     Multiple: 1
-    Hash: 941c71e9d39a48d6920ad76c8e9e8337
+    Hash: 12db6d01fe3a9be0481184db242c887b
     Tags: []
   - Name: MagnetismBow
     Collection: Epic
@@ -17873,7 +17873,7 @@ MonoBehaviour:
     - {fileID: 21300002, guid: d414084c07d141c28f447cb2d0acaad6, type: 3}
     - {fileID: 21300000, guid: d414084c07d141c28f447cb2d0acaad6, type: 3}
     Multiple: 1
-    Hash: 1d1111e398f8ec26af475725b011e6f1
+    Hash: ba5d333c2e4841023a78510b33703602
     Tags: []
   - Name: PathFinderBow
     Collection: Basic
@@ -17977,7 +17977,7 @@ MonoBehaviour:
     - {fileID: 21300002, guid: cbea51cfd445493cb1869ebe3bc652b9, type: 3}
     - {fileID: 21300000, guid: cbea51cfd445493cb1869ebe3bc652b9, type: 3}
     Multiple: 1
-    Hash: 4cba469e7e80810090f1d6ada27b8a40
+    Hash: 356f2d978924c8b66bf9160bf49d339c
     Tags: []
   - Name: SamuraiBow2
     Collection: Samurai
@@ -17990,7 +17990,7 @@ MonoBehaviour:
     - {fileID: 21300002, guid: 263125bb02994859aaa9434569435f81, type: 3}
     - {fileID: 21300000, guid: 263125bb02994859aaa9434569435f81, type: 3}
     Multiple: 1
-    Hash: 30352f7f150c830d4659629c8e10779a
+    Hash: e6814ad472ff479ac43866efb16dfaae
     Tags: []
   - Name: SamuraiBow3
     Collection: Samurai
@@ -18003,7 +18003,7 @@ MonoBehaviour:
     - {fileID: 21300002, guid: 2d84bce006a541afaefbb7ef67065faf, type: 3}
     - {fileID: 21300000, guid: 2d84bce006a541afaefbb7ef67065faf, type: 3}
     Multiple: 1
-    Hash: 35e83ac81bc849745d6a1608868f2088
+    Hash: caa2bce077896af50bef67f38377980b
     Tags: []
   - Name: SandShooterBow1
     Collection: SandLords
@@ -18068,7 +18068,7 @@ MonoBehaviour:
     - {fileID: 21300002, guid: b8ade797dc3441cc83ade7836f94bcc3, type: 3}
     - {fileID: 21300000, guid: b8ade797dc3441cc83ade7836f94bcc3, type: 3}
     Multiple: 1
-    Hash: 41a90876ed56f46ff159813769b64a27
+    Hash: 8f582b08a917ba95922ebbeca88689d4
     Tags: []
   - Name: SkullBanditBow
     Collection: Basic
